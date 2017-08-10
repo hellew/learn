@@ -1,0 +1,30 @@
+and	 和
+exec	
+not	 否
+assert	 断言
+finally	 友好
+or 	 或者
+break	 打断
+for	 循环
+pass     暂停
+class	 类
+from	 导入
+print	 打印log
+continue	继续
+global	
+raise
+def 	默认	
+if	如果
+return 	返回
+del	删除
+import	导入
+try	尝试
+elif	elseif
+in	在里面
+while	循环
+else	那么
+is	是什么
+with	和什么
+except	异常
+lambda	
+yield
